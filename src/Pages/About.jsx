@@ -7,7 +7,7 @@ function About() {
   return (
     <div>
       <p>
-        <a id="about"></a>
+        <a id="sobre"></a>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eaque harum
         explicabo quos laudantium rerum vel quae ullam, provident nam beatae
         illum! Explicabo doloremque magnam quae aliquid impedit nihil provident
@@ -19,10 +19,10 @@ function About() {
       <div id="skills">
         <CardSkills />
       </div>
-      <div id="projects">
+      <div id="projetos">
         <Projetos />
       </div>
-      <div id="contact">
+      <div id="contato">
         <CardContact />
       </div>
     </div>
